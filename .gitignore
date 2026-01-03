@@ -1,0 +1,40 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs (if you create one inside the project)
+.venv/
+venv/
+env/
+
+# Python packaging build dirs
+build/
+dist/
+*.egg-info/
+
+# Logs and runtime files
+*.log
+
+# VS Code / JetBrains project settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore local environment files
+.env
+.env.*
+
+# Lockfiles (if you prefer not to track them — optional)
+# uv.lock
+
+# Generated output PDFs
+*.pdf
+
+# OS temp files
+*.tmp
+*.swp
+
