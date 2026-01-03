@@ -4,6 +4,7 @@
 # 2. Install playwright browser binaries.
 - `uv run playwright install`
 
-# 3. Run benchmark by running `uv run main.py` 
+# 3. Run benchmark by
+- `uv run main.py`
 
 
