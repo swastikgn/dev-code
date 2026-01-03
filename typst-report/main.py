@@ -9,7 +9,7 @@ from jinja2 import Environment, FileSystemLoader
 from playwright.sync_api import sync_playwright
 from weasyprint import HTML
 
-DATA_COUNT = 1000
+DATA_COUNT = 10000
 ITERATIONS = 3
 faker = Faker()
 
